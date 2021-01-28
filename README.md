@@ -3,7 +3,7 @@
  
 ### Para executar o jogo faça o seguinte:
 <ul>
-<li><p> 1)Clone o repositório(já com o GIT instalado em sua máquina):<p> $ git clone https://github.com/fabiomirandafig/Tetris.git</p></p></li>
+<li><p>**1)Clone o repositório (já com o GIT instalado em sua máquina)**<p> $ git clone https://github.com/fabiomirandafig/Tetris.git</p></p></li>
 
 <li>2)Atualize os pacotes instalados no linux e instale a biblioteca ncurses por meio dos seguintes comandos: <p>$ sudo apt-get update</p>
 <p>$ sudo apt-get install libncurses-dev</p></li>
